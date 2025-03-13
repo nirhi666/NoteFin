@@ -20,4 +20,4 @@ NoteFin is designed for users who value a **simple and efficient way to manage d
 - **Customizing the UI with different themes and colors**  
 - **Cloud synchronization** for multi-device support  
 
-NoteFin 1.0 is the first step towards a **simpler and more organized daily life**. This application is built for users who want more control with fewer distractions.  
+NoteFin 1.0 is the first step towards a **simpler and more organized daily life**. This application is built for users who want more control with fewer distractions. 
